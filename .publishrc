@@ -5,7 +5,7 @@
     "untrackedFiles": true,
     "branch": "master",
     "gitTag": true,
-    "sensitiveData": true
+    "sensitiveData": false
   },
   "confirm": false,
   "publishTag": "latest",
