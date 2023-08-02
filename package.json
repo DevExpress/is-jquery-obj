@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/miherlosev/is-jquery-obj#readme",
   "devDependencies": {
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "publish-please": "^5.4.3"
   }
 }
